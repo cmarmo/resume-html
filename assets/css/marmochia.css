@@ -35,6 +35,9 @@ h6 {
  *********************************************/
 
 a { border-bottom-color: transparent;	}
+a:hover {
+  color: rgba(250, 207, 0, 0.75);
+}
 img.image-container {
   margin: 20px 0;
   border-radius: 20px;
