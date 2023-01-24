@@ -36,7 +36,7 @@ h6 {
 
 .sand {
   color: grey;
-  text-shadow: 2px 2px black;
+  text-shadow: 1px 1px white;
 }
 a { border-bottom-color: transparent;	}
 a:hover {
@@ -86,6 +86,14 @@ span.heart {
   width: 70px;
   height: auto;
   position: relative;
+}
+
+.lnkdn-icon {
+  width: 60px;
+  height: auto;
+  position: relative;
+  bottom: -50px;
+  left: -50px;
 }
 
 .gh-icon {
