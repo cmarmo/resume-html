@@ -83,7 +83,7 @@ span.heart {
 }
 
 .orcid-icon {
-  width: 70px;
+  width: 60px;
   height: auto;
   position: relative;
 }
@@ -92,16 +92,17 @@ span.heart {
   width: 60px;
   height: auto;
   position: relative;
-  bottom: -50px;
-  left: -50px;
+  /*bottom: -50px;
+  left: -50px; */
+  border-radius: 10px;
 }
 
 .gh-icon {
   position: relative;
-  width: 80px;
+  width: 60px;
   height: auto;
-  left: -90px;
-  bottom: -50px;
+  /*left: -90px;
+  bottom: -50px;*/
 }
 
 .tw-icon {
