@@ -113,8 +113,8 @@ span.heart {
   position: relative;
   width: 90px;
   height: auto;
-  /*left: -90px;
-  bottom: -50px;*/
+  /*left: -90px;*/
+  bottom: -20px;
 }
 
 .tw-icon {
