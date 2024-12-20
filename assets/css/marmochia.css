@@ -96,8 +96,8 @@ span.heart {
   width: 60px;
   height: auto;
   position: relative;
-  /*bottom: -50px;
-  left: -50px; */
+  /*bottom: -50px;*/
+  left: -10px;
   border-radius: 10px;
 }
 
