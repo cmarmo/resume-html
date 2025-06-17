@@ -92,6 +92,12 @@ span.heart {
   position: relative;
 }
 
+.hal-icon {
+  width: 60px;
+  height: auto;
+  position: relative;
+}
+
 .lnkdn-icon {
   width: 60px;
   height: auto;
