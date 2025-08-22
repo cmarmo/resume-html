@@ -87,47 +87,43 @@ span.heart {
 }
 
 .orcid-icon {
-  width: 60px;
+  width: 50px;
   height: auto;
   position: relative;
 }
 
 .hal-icon {
-  width: 60px;
+  width: 50px;
   height: auto;
   position: relative;
 }
 
 .lnkdn-icon {
-  width: 60px;
+  width: 50px;
   height: auto;
   position: relative;
-  /*bottom: -50px;*/
-  left: -10px;
   border-radius: 10px;
 }
 
 .gh-icon {
   position: relative;
-  width: 60px;
+  width: 50px;
   height: auto;
-  /*left: -90px;
-  bottom: -50px;*/
+  left: 40px;
 }
 
 .glab-icon {
   position: relative;
-  width: 90px;
+  width: 80px;
   height: auto;
-  /*left: -90px;*/
+  left: 20px;
   bottom: -20px;
 }
 
-.tw-icon {
-  position: relative;
-  width: 80px;
+.tchap-icon {
+  width: 50px;
   height: auto;
-  left: 50px;
+  position: relative;
 }
 
 h3.asis {
