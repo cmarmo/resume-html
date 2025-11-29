@@ -141,3 +141,7 @@ div.iframe {
   font-size: 30px;
   text-align: left;
 }
+
+#wrapper > .copyright {
+  color: black;
+}
